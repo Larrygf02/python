@@ -13,7 +13,7 @@ while(respuesta == "S"):
 	   except ValueError:
 	       print("Chucha pones letra donde debe ser numero")
 	
-	p = persona.Persona(nom,edad)
+	p = persona.Persona(nom,x)
 	lista_persona.append(p)
 	print("Desea continuar (S/N)")
 	respuesta = input()
