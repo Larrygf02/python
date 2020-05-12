@@ -5,4 +5,3 @@ print(r)
 # Retorna una tupla
 r = text.partition(" ")
 print(r)
- 
